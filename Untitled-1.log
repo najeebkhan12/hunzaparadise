@@ -1,0 +1,287 @@
+Log	
+45.0 APEX_CODE,DEBUG;APEX_PROFILING,INFO;CALLOUT,INFO;DB,INFO;NBA,NONE;SYSTEM,DEBUG;VALIDATION,INFO;VISUALFORCE,INFO;WAVE,INFO;WORKFLOW,INFO
+11:35:13.0 (574471)|USER_INFO|[EXTERNAL]|005G00000025fZG|tevans@ufareverse.com|(GMT-04:00) Eastern Daylight Time (America/New_York)|GMT-04:00
+11:35:13.0 (2298647)|EXECUTION_STARTED
+11:35:13.0 (2367047)|CODE_UNIT_STARTED|[EXTERNAL]|01p16000004VtA8|ortoo_e2a.EmailToAnything_02.handleInboundEmail(Messaging.InboundEmail, Messaging.InboundEnvelope)
+11:35:13.0 (19064998)|SYSTEM_MODE_ENTER|false
+11:35:13.0 (19337037)|SYSTEM_MODE_EXIT|false
+11:35:13.0 (19433697)|SYSTEM_MODE_ENTER|false
+11:35:13.0 (198055843)|USER_DEBUG|[968]|DEBUG|email_IN.plainTextBody: 20
+
+
+
+
+________________________________
+
+Ref{00DG.Cbo2:a021M.u85Q4}
+
+
+From: HomeAccess Approval <affinity_prospect_updates@8kb7e454x4r1lr9olmvbeyodndsmyjilouu0i67bvgvguskue.g-cbo2mac.na77.apex.salesforce.com>
+Sent: Friday, May 3, 2019 5:55 PM
+To: Tom Evans
+Cc: Tom Evans
+Subject: Affinity Notification - Please approve comp for for HomeAccess Affinity
+
+[EXTERNAL MESSAGE]
+________________________________
+[Finance of America Mortgage LLC]
+
+
+Thomas E Evans,
+
+
+
+The below LO would like to offer HomeAccess Affinity
+
+They have completed all necessary training and approvals.
+Please reply with their approved comp payout for Affinity deals in bps:
+
+10
+20
+30
+40
+
+Loan Officer:   Tom Evans
+Loan Officer NMLS#:   1234567
+Loan Officer Phone:   (917) 657-5878
+Loan Office Email:   evanste76@aol.com
+
+
+
+Thank You.
+
+The HomeAccess Team
+
+
+
+
+Ref{00DG.Cbo2:a021M.u85Q4}
+
+
+
+
+
+
+
+
+
+11:35:13.0 (198106165)|USER_DEBUG|[969]|DEBUG|email_IN.htmlBody: <html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css" style="display:none;"><!-- P {margin-top:0;margin-bottom:0;} --></style>
+</head>
+<body dir="ltr">
+<div id="divtagdefaultwrapper" style="font-size:11pt;color:#000000;font-family:Calibri,Helvetica,sans-serif;" dir="ltr">
+<p style="margin-top:0;margin-bottom:0"></p>
+<p style="margin:0in;font-family:Calibri;font-size:11.0pt">20</p>
+<p style="margin:0in;font-family:Calibri;font-size:11.0pt"><br>
+</p>
+<p style="margin:0in;font-family:Calibri;font-size:11.0pt"><br>
+</p>
+<p></p>
+<br>
+<div style="color: rgb(0, 0, 0);"><br>
+<hr tabindex="-1" style="display:inline-block; width:98%">
+<div id="divRplyFwdMsg" dir="ltr"><font face="Calibri, sans-serif" color="#000000" style="font-size:11pt"><b>
+<p style="margin: 0in; font-size: 11pt; font-family: Calibri;">Ref{00DG.Cbo2:a021M.u85Q4}</p>
+<div><br>
+</div>
+<br>
+</b></font></div>
+<div id="divRplyFwdMsg" dir="ltr"><font face="Calibri, sans-serif" color="#000000" style="font-size:11pt"><b>From:</b> HomeAccess Approval &lt;affinity_prospect_updates@8kb7e454x4r1lr9olmvbeyodndsmyjilouu0i67bvgvguskue.g-cbo2mac.na77.apex.salesforce.com&gt;<br>
+<b>Sent:</b> Friday, May 3, 2019 5:55 PM<br>
+<b>To:</b> Tom Evans<br>
+<b>Cc:</b> Tom Evans<br>
+<b>Subject:</b> Affinity Notification - Please approve comp for for HomeAccess Affinity</font>
+<div>&nbsp;</div>
+</div>
+<div class="x_setupTab" style="background-color:#CCCCCC">
+<div class="x_mc-ip-hide">
+<div style="color:#000000; font-size:12px; text-align:left; font-family:Helvetica,Arial,sans-serif">
+<strong>
+<div style="font-size:9pt; font-family:'Calibri',sans-serif"></div>
+<span style="font-size:12pt; font-family:'Cambria','times new roman','garamond',serif; color:#ff0000">[EXTERNAL MESSAGE]</span></strong><br>
+</div>
+<hr>
+</div>
+<center>
+<table id="x_topTable" width="500" height="450" cellspacing="0" cellpadding="0">
+<tbody>
+<tr valign="top">
+<td style="background-color:#FFFFFF; vertical-align:middle; height:100; text-align:left">
+<blockquote><img alt="Finance of America Mortgage LLC" width="300" height="75" style="user-select: none;" src="https://c.na77.content.force.com/servlet/servlet.ImageServer?id=0151M00000ShQXj&amp;oid=00DG0000000Cbo2&amp;lastMod=1555354554000"><br>
+</blockquote>
+</td>
+</tr>
+<tr valign="top">
+<td height="300" style="background-color:rgb(255,255,255); color:rgb(0,0,0); font-size:12pt">
+<table width="550" height="400" cellspacing="5" cellpadding="5" border="0">
+<tbody>
+<tr height="400" valign="top">
+<td bgcolor="#ffffff" style="background-color:rgb(255,255,255); color:rgb(0,0,0); font-size:12pt">
+<p><font face="Gotham" color="#003259" size="-1">Thomas E Evans,</font></p>
+<p></p>
+<p><font face="Gotham" size="-1">&nbsp;</font></p>
+<p></p>
+<p></p>
+<p><font face="Gotham" size="-1">The below LO would like to offer HomeAccess Affinity<br>
+</font></p>
+<p><font face="Gotham" size="-1">They have completed all necessary training and approvals.<br>
+Please reply with their approved comp payout for Affinity deals in bps:</font></p>
+<p><font size="-1"><font face="Gotham">10<br>
+20<br>
+30<br>
+40<br>
+</font></font><font face="Gotham" size="-1"><font color="#3366ff"><strong></strong></font><strong></strong></font></p>
+<p></p>
+<p><font face="Gotham" size="-1"><strong></strong></font><font face="Gotham" size="-1"><font color="#3366ff"><strong><br>
+</strong></font>Loan Officer:&nbsp;&nbsp; <strong><font color="#3366ff">Tom Evans</font></strong><font color="#3366ff"><strong><br>
+</strong></font></font><font face="Gotham" size="-1">Loan Officer NMLS#:&nbsp;&nbsp; <strong>
+<font color="#3366ff">1234567</font></strong><font color="#3366ff"><strong><br>
+</strong></font></font><font face="Gotham" size="-1">Loan Officer Phone:&nbsp;&nbsp; <strong>
+<font color="#3366ff">(917) 657-5878</font></strong><font color="#3366ff"><strong><br>
+</strong></font></font><font face="Gotham" size="-1">Loan Office Email:&nbsp;&nbsp; <strong>
+<font color="#3366ff">evanste76@aol.com</font></strong><font color="#3366ff"><strong></strong></font></font><br>
+<font face="Gotham" size="-1"><font color="#3366ff"><strong></strong></font></font><font face="Gotham" size="-1"><font color="#3366ff"><strong></strong></font></font><font face="Gotham" size="-1"><font color="#3366ff"><strong></strong></font></font><font face="Gotham" size="-1"><strong></strong></font></p>
+<p></p>
+<p><font face="Gotham" size="-1"><br>
+<br>
+</font></p>
+<font size="-1"><font face="Gotham">Thank You.<br>
+<br>
+The HomeAccess Team<br>
+<br>
+<br>
+<br>
+<br>
+Ref{00DG.Cbo2:a021M.u85Q4}<br>
+</font></font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr valign="top">
+<td style="background-color:#003259; height:5"><br>
+</td>
+</tr>
+<tr valign="top">
+<td style="background-color:#FFFFFF; vertical-align:top; height:100; text-align:left">
+<br>
+</td>
+</tr>
+<tr valign="top">
+<td style="background-color:#003259; height:5"><br>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+11:35:13.0 (204041255)|SOQL_EXECUTE_BEGIN|[1010]|Aggregations:0|SELECT ConvertedOpportunityId, ConvertedOpportunity.Thread_Id__c, Thread_Id__c FROM lead 
+11:35:13.0 (556474810)|SOQL_EXECUTE_END|[1010]|Rows:0
+11:35:13.0 (567401128)|SOQL_EXECUTE_BEGIN|[1031]|Aggregations:0|SELECT ConvertedOpportunityId, ConvertedOpportunity.Thread_Id__c, Thread_Id__c FROM lead 
+11:35:13.0 (806786589)|SOQL_EXECUTE_END|[1031]|Rows:0
+11:35:13.0 (874143937)|SOQL_EXECUTE_BEGIN|[1052]|Aggregations:0|SELECT ConvertedOpportunityId, ConvertedOpportunity.Thread_Id__c, Thread_Id__c FROM lead 
+11:35:14.112 (1112183732)|SOQL_EXECUTE_END|[1052]|Rows:0
+11:35:14.112 (1114412919)|USER_DEBUG|[903]|DEBUG|in reference
+11:35:14.112 (1114827612)|USER_DEBUG|[921]|DEBUG|refSplitList(<trbQa000000000000000000000000000000000000000000000PQXIL000FCP3d-VHQFWgtdOnxYmfiw@sfdc.net>)
+11:35:14.112 (1118952928)|USER_DEBUG|[956]|DEBUG|message Id :<AM5PR0902MB205106613BD810BAFFC99B1091350@AM5PR0902MB2051.eurprd09.prod.outlook.com>
+11:35:14.112 (1136054029)|SOQL_EXECUTE_BEGIN|[49]|Aggregations:0|SELECT EC_Hide_To_Field__c, Re_parent_emails_on_Lead_conversion__c, Email_Gateway__c, Email_Gateway_API_Key__c, Email_Gateway_Domain__c, PostV2_Install__c, EC_Auto_Replied_Status__c, EC_Compliance_BCC_Enabled__c, EC_Restrict_From_Addresses__c, EC_Store_Sent_Emails__c, EC_Store_Sent_Emails_As_Activity__c, EC_Thread_Id_In_Subject__c, EC_Thread_Id_In_Body__c, Enable_Business_Unit__c, Keep_inline_images_in_email_body__c, Business_Unit_Mandatory__c FROM Global_Settings__c LIMIT 1
+11:35:14.112 (1140647832)|SOQL_EXECUTE_END|[49]|Rows:0
+11:35:14.112 (1142591426)|SOQL_EXECUTE_BEGIN|[75]|Aggregations:0|SELECT id FROM ApexClass WHERE Name = :tmpVar1
+11:35:14.112 (1173798375)|SOQL_EXECUTE_END|[75]|Rows:1
+11:35:14.112 (1174725865)|SOQL_EXECUTE_BEGIN|[76]|Aggregations:0|SELECT id FROM EmailServicesFunction WHERE (ApexClassId = :tmpVar1 AND IsActive = TRUE)
+11:35:14.112 (1178051926)|SOQL_EXECUTE_END|[76]|Rows:1
+11:35:14.112 (1189646828)|SOQL_EXECUTE_BEGIN|[8]|Aggregations:0|SELECT Id, Name, CreatedById, LastModifiedById, OwnerId, CreatedDate, LastModifiedDate, Record_Type_Id_Overwrite__c, Alternate_Record_Matching_Field__c, Alternate_Record_Matching_Regex__c, Alternate_Record_Matching_Group__c, Alternate_Record_Matching_Search_In__c, NewAlternate_Record_Matching_Search_In__c, Assigned_Owner__c, Assigned_Owner_Type__c, Assigned_Queue__c, Attachments_On_Obj_Is_Set__c, Attachments_On_Storage_Obj__c, Attachments_On_Target_Obj__c, Body_Contains_Argument_1__c, Body_Contains_Argument_2__c, Body_Contains_Argument_3__c, Body_Contains_Argument_1_Overwrite__c, Body_Contains_Argument_2_Overwrite__c, Body_Contains_Argument_3_Overwrite__c, Body_Contains_Field_1__c, Body_Contains_Field_2__c, Body_Contains_Field_3__c, Body_Contains_Field_Value_1__c, Body_Contains_Field_Value_2__c, Body_Contains_Field_Value_3__c, Contact_Match_Type__c, Body_Assign_Field__c, Email_Body_Overwrite__c, Email_Date_Add_Days__c, Email_Date_Assign_Field__c, Email_Date_Overwrite__c, From_Address_Assign_Field__c, Email_From_Address_Overwrite__c, From_Domain_Assign_Field__c, Email_From_Domain_Overwrite__c, From_First_Name_Assign_Field__c, Email_From_First_Name_Overwrite__c, From_Last_Name_Assign_Field__c, Email_From_Last_Name_Overwrite__c, From_Name_Assign_Field__c, Email_From_Name_Overwrite__c, Headers_Assign_Field__c, Email_Headers_Overwrite__c, Html_Body_Assign_field__c, Email_Html_Body_Overwrite__c, Subject_Assign_Field__c, Email_Subject_Overwrite__c, To_Address_Assign_Field__c, Email_To_Address_Overwrite__c, Function_Id__c, Is_Active__c, Matched_Account_Assign_Field__c, Matched_Account_Overwrite__c, Matched_Contact_Assign_Field__c, Matched_Contact_Overwrite__c, Object_Status_Field_1_Overwrite__c, Object_Status_Field_2_Overwrite__c, Object_Status_Field_3_Overwrite__c, Queue_Id__c, Record_Insert__c, Record_Type_Id__c, Email_Message_Object_Key_Prefix__c, Object_Key_Prefix__c, Object_Status_Field_1__c, Object_Status_Field_2__c, Object_Status_Field_3__c, Object_Status_Field__c, Object_Status_Field_Value_1__c, Object_Status_Field_Value_2__c, Object_Status_Field_Value_3__c, Object_Status_Field_Value__c, Service_Id_Assign_Field__c, Service_Id_Code__c, Service_ID_Overwrite__c, Subject_Contains_Argument_1__c, Subject_Contains_Argument_2__c, Subject_Contains_Argument_3__c, Subject_Contains_Argument_1_Overwrite__c, Subject_Contains_Argument_2_Overwrite__c, Subject_Contains_Argument_3_Overwrite__c, Subject_Contains_Field_1__c, Subject_Contains_Field_2__c, Subject_Contains_Field_3__c, Subject_Contains_Field_Value_1__c, Subject_Contains_Field_Value_2__c, Subject_Contains_Field_Value_3__c, Thread_Id_In_Body__c, Thread_Id_In_Subject__c, Store_Attachments_In__c FROM Email_Services_Function__c WHERE Name != :tmpVar1 LIMIT 1000
+11:35:14.112 (1198247882)|SOQL_EXECUTE_END|[8]|Rows:2
+11:35:14.112 (1200895553)|SOQL_EXECUTE_BEGIN|[54]|Aggregations:0|SELECT Id, Name, Order__c, Append_Picklist_Values__c, Apply_Empty_Result__c, Assign_To_Owner_Queue__c, Assign_To_Owner_Type__c, Assign_To_Owner_User__c, Capture_Group__c, Destination_Field__c, Destination_Value_Field__c, Force_to_Unmatched_Queue__c, Lookup_Object__c, Lookup_Object_Field__c, Lookup_Order__c, Overwrite_Allowed__c, Pattern__c, Rule_Type__c, Search_In__c, Stop_On_Match__c, Trigger_When__c, Unmatched_Queue__c, Overwrite_Non_Blank_Values__c FROM Pattern_Based_Rule__c WHERE Parent_Id__c = :tmpVar1 ORDER BY ortoo_e2a__Order__c ASC NULLS FIRST
+11:35:14.112 (1208782719)|SOQL_EXECUTE_END|[54]|Rows:4
+11:35:14.112 (1209867523)|USER_DEBUG|[87]|DEBUG|esfunctionList: ortoo_e2a__Email_Services_Function__c:{Id=a1m1M00000Bb6PsQAJ, Name=Select_HomeAccess_Comp, CreatedById=005G00000025fZGIAY, LastModifiedById=005G00000025fZGIAY, OwnerId=005G00000025fZGIAY, CreatedDate=2019-05-01 17:09:14, LastModifiedDate=2019-05-03 12:51:28, ortoo_e2a__Record_Type_Id_Overwrite__c=false, ortoo_e2a__Alternate_Record_Matching_Field__c=Employee_NMLS__c, ortoo_e2a__Assigned_Owner__c=005G00000025fZGIAY, ortoo_e2a__Assigned_Owner_Type__c=USER, ortoo_e2a__Attachments_On_Obj_Is_Set__c=true, ortoo_e2a__Attachments_On_Storage_Obj__c=true, ortoo_e2a__Attachments_On_Target_Obj__c=true, ortoo_e2a__Body_Contains_Argument_1_Overwrite__c=false, ortoo_e2a__Body_Contains_Argument_2_Overwrite__c=false, ortoo_e2a__Body_Contains_Argument_3_Overwrite__c=false, ortoo_e2a__Contact_Match_Type__c=Earliest Created, ortoo_e2a__Email_Body_Overwrite__c=false, ortoo_e2a__Email_Date_Add_Days__c=0, ortoo_e2a__Email_Date_Overwrite__c=false, ortoo_e2a__Email_From_Address_Overwrite__c=false, ortoo_e2a__Email_From_Domain_Overwrite__c=false, ortoo_e2a__Email_From_First_Name_Overwrite__c=false, ortoo_e2a__Email_From_Last_Name_Overwrite__c=false, ortoo_e2a__Email_From_Name_Overwrite__c=false, ortoo_e2a__Email_Headers_Overwrite__c=false, ortoo_e2a__Email_Html_Body_Overwrite__c=false, ortoo_e2a__Email_Subject_Overwrite__c=false, ortoo_e2a__Email_To_Address_Overwrite__c=false, ortoo_e2a__Function_Id__c=0911M000000LKm8QAG, ortoo_e2a__Is_Active__c=true, ortoo_e2a__Matched_Account_Overwrite__c=false, ortoo_e2a__Matched_Contact_Overwrite__c=false, ortoo_e2a__Object_Status_Field_1_Overwrite__c=false, ortoo_e2a__Object_Status_Field_2_Overwrite__c=false, ortoo_e2a__Object_Status_Field_3_Overwrite__c=false, ortoo_e2a__Queue_Id__c=00G16000005QsVdEAK, ortoo_e2a__Record_Insert__c=Insert Allowed, ortoo_e2a__Record_Type_Id__c=0121M0000014MgsQAE, ortoo_e2a__Email_Message_Object_Key_Prefix__c=a1g, ortoo_e2a__Object_Key_Prefix__c=a02, ortoo_e2a__Service_ID_Overwrite__c=false, ortoo_e2a__Subject_Contains_Argument_1_Overwrite__c=false, ortoo_e2a__Subject_Contains_Argument_2_Overwrite__c=false, ortoo_e2a__Subject_Contains_Argument_3_Overwrite__c=false, ortoo_e2a__Thread_Id_In_Body__c=true, ortoo_e2a__Thread_Id_In_Subject__c=false, ortoo_e2a__Store_Attachments_In__c=Attachment Object}
+11:35:14.112 (1210531875)|USER_DEBUG|[88]|DEBUG|PatternRules: (ortoo_e2a__Pattern_Based_Rule__c:{Id=a1s1M0000070SIBQA2, Name=a1s1M0000070SIB, ortoo_e2a__Order__c=1, ortoo_e2a__Append_Picklist_Values__c=false, ortoo_e2a__Apply_Empty_Result__c=false, ortoo_e2a__Capture_Group__c=1, ortoo_e2a__Destination_Field__c=Affinity_Payout_Comp__c, ortoo_e2a__Force_to_Unmatched_Queue__c=false, ortoo_e2a__Overwrite_Allowed__c=true, ortoo_e2a__Pattern__c=(?s)\b(10)\b(.*?Please reply with), ortoo_e2a__Rule_Type__c=Field Assignment, ortoo_e2a__Search_In__c=Body, ortoo_e2a__Stop_On_Match__c=false, ortoo_e2a__Overwrite_Non_Blank_Values__c=false}, ortoo_e2a__Pattern_Based_Rule__c:{Id=a1s1M0000070SIGQA2, Name=a1s1M0000070SIG, ortoo_e2a__Order__c=2, ortoo_e2a__Append_Picklist_Values__c=false, ortoo_e2a__Apply_Empty_Result__c=false, ortoo_e2a__Capture_Group__c=1, ortoo_e2a__Destination_Field__c=Affinity_Payout_Comp__c, ortoo_e2a__Force_to_Unmatched_Queue__c=false, ortoo_e2a__Overwrite_Allowed__c=true, ortoo_e2a__Pattern__c=(?s)\b(20)\b(.*?Please reply with), ortoo_e2a__Rule_Type__c=Field Assignment, ortoo_e2a__Search_In__c=Body, ortoo_e2a__Stop_On_Match__c=false, ortoo_e2a__Overwrite_Non_Blank_Values__c=false}, ortoo_e2a__Pattern_Based_Rule__c:{Id=a1s1M0000070SILQA2, Name=a1s1M0000070SIL, ortoo_e2a__Order__c=3, ortoo_e2a__Append_Picklist_Values__c=false, ortoo_e2a__Apply_Empty_Result__c=false, ortoo_e2a__Capture_Group__c=1, ortoo_e2a__Destination_Field__c=Affinity_Payout_Comp__c, ortoo_e2a__Force_to_Unmatched_Queue__c=false, ortoo_e2a__Overwrite_Allowed__c=true, ortoo_e2a__Pattern__c=(?s)\b(30)\b(.*?Please reply with), ortoo_e2a__Rule_Type__c=Field Assignment, ortoo_e2a__Search_In__c=Body, ortoo_e2a__Stop_On_Match__c=false, ortoo_e2a__Overwrite_Non_Blank_Values__c=false}, ortoo_e2a__Pattern_Based_Rule__c:{Id=a1s1M0000070SIQQA2, Name=a1s1M0000070SIQ, ortoo_e2a__Order__c=4, ortoo_e2a__Append_Picklist_Values__c=false, ortoo_e2a__Apply_Empty_Result__c=false, ortoo_e2a__Capture_Group__c=1, ortoo_e2a__Destination_Field__c=Affinity_Payout_Comp__c, ortoo_e2a__Force_to_Unmatched_Queue__c=false, ortoo_e2a__Overwrite_Allowed__c=true, ortoo_e2a__Pattern__c=(?s)\b(40)\b(.*?Please reply with), ortoo_e2a__Rule_Type__c=Field Assignment, ortoo_e2a__Search_In__c=Body, ortoo_e2a__Stop_On_Match__c=false, ortoo_e2a__Overwrite_Non_Blank_Values__c=false})
+11:35:14.112 (1256791716)|SOQL_EXECUTE_BEGIN|[1200]|Aggregations:0|SELECT ortoo_e2a__Apply_Empty_Result__c, ortoo_e2a__Assign_To_Owner_Queue__c, ortoo_e2a__Assign_To_Owner_Type__c, ortoo_e2a__Assign_To_Owner_User__c, ortoo_e2a__Capture_Group__c, ortoo_e2a__Destination_Field__c, ortoo_e2a__Destination_Value_Field__c, ortoo_e2a__Force_to_Unmatched_Queue__c, ortoo_e2a__Lookup_Object__c, ortoo_e2a__Lookup_Object_Field__c, ortoo_e2a__Lookup_Order__c, ortoo_e2a__Overwrite_Allowed__c, ortoo_e2a__Parent_Id__c, ortoo_e2a__Pattern__c, ortoo_e2a__Rule_Type__c, ortoo_e2a__Search_In__c, ortoo_e2a__Stop_On_Match__c, ortoo_e2a__Unmatched_Queue__c, ortoo_e2a__Trigger_When__c FROM ortoo_e2a__Pattern_Based_Rule__c WHERE ortoo_e2a__Parent_Id__c = :tmpVar1 ORDER BY Order__c ASC NULLS FIRST
+11:35:14.112 (1263007694)|SOQL_EXECUTE_END|[1200]|Rows:4
+11:35:14.112 (1263568117)|USER_DEBUG|[113]|DEBUG|ownerResult.owner null
+11:35:14.112 (1263609304)|USER_DEBUG|[114]|DEBUG|ownerResult.unmathcedQueue null
+11:35:14.112 (1263659494)|USER_DEBUG|[115]|DEBUG|ownerResult.forceToUnmatchedQueue false
+11:35:14.112 (1264402164)|USER_DEBUG|[464]|DEBUG|[CheckThreadIdExists Enter]
+11:35:14.112 (1265428325)|USER_DEBUG|[497]|DEBUG|[CheckThreadIdExists Exit]:0
+11:35:14.112 (1265937527)|USER_DEBUG|[464]|DEBUG|[CheckThreadIdExists Enter]
+11:35:14.112 (1266454458)|USER_DEBUG|[497]|DEBUG|[CheckThreadIdExists Exit]:0
+11:35:14.112 (1266521403)|USER_DEBUG|[622]|DEBUG|in related object record exists = false and matching through regex
+11:35:14.112 (1266564302)|USER_DEBUG|[781]|DEBUG|for lead if
+11:35:14.112 (1268405635)|EXCEPTION_THROWN|[786]|System.QueryException: No such column 'Message_Id__c' on entity 'Employee__c'. If you are attempting to use a custom field, be sure to append the '__c' after the custom field name. Please reference your WSDL or the describe call for the appropriate names.
+11:35:14.112 (1269980079)|SOQL_EXECUTE_BEGIN|[803]|Aggregations:0|Select Id, Message_Id__c from ortoo_e2a__EmailMessage__c where IsDeleted = false AND Message_Id__c = '<AM5PR0902MB205106613BD810BAFFC99B1091350@AM5PR0902MB2051.eurprd09.prod.outlook.com>' limit 1
+11:35:14.112 (1281170071)|SOQL_EXECUTE_END|[803]|Rows:0
+11:35:14.112 (1372777699)|USER_DEBUG|[817]|DEBUG|soql query:Select Id, Employee_Link__c , Message_Id__c from ortoo_e2a__EmailMessage__c where IsDeleted = false AND Message_Id__c in ('<trbQa000000000000000000000000000000000000000000000PQXIL000FCP3d-VHQFWgtdOnxYmfiw@sfdc.net>') limit 1
+11:35:14.112 (1373287346)|SOQL_EXECUTE_BEGIN|[818]|Aggregations:0|Select Id, Employee_Link__c , Message_Id__c from ortoo_e2a__EmailMessage__c where IsDeleted = false AND Message_Id__c in ('<trbQa000000000000000000000000000000000000000000000PQXIL000FCP3d-VHQFWgtdOnxYmfiw@sfdc.net>') limit 1
+11:35:14.112 (1383048766)|SOQL_EXECUTE_END|[818]|Rows:0
+11:35:14.112 (1383449173)|USER_DEBUG|[824]|DEBUG|relatedObjId :null
+11:35:14.112 (1383567900)|USER_DEBUG|[171]|DEBUG|processRelatedIdresult{ExactDuplicate=false, relatedObjId=null}
+11:35:14.112 (1384324480)|USER_DEBUG|[240]|DEBUG|domainMap{fromAddressDomain=ortooapps.com, fromFirstName=Samina, fromLastName=Hanif}
+11:35:14.112 (1406896006)|EXCEPTION_THROWN|[263]|System.SObjectException: Invalid field Message_Id__c for Employee__c
+11:35:14.112 (1407471072)|USER_DEBUG|[550]|DEBUG|Rule: ortoo_e2a__Pattern_Based_Rule__c:{Id=a1s1M0000070SIBQA2, Name=a1s1M0000070SIB, ortoo_e2a__Order__c=1, ortoo_e2a__Append_Picklist_Values__c=false, ortoo_e2a__Apply_Empty_Result__c=false, ortoo_e2a__Capture_Group__c=1, ortoo_e2a__Destination_Field__c=Affinity_Payout_Comp__c, ortoo_e2a__Force_to_Unmatched_Queue__c=false, ortoo_e2a__Overwrite_Allowed__c=true, ortoo_e2a__Pattern__c=(?s)\b(10)\b(.*?Please reply with), ortoo_e2a__Rule_Type__c=Field Assignment, ortoo_e2a__Search_In__c=Body, ortoo_e2a__Stop_On_Match__c=false, ortoo_e2a__Overwrite_Non_Blank_Values__c=false}
+11:35:14.112 (1408729853)|USER_DEBUG|[664]|DEBUG|result:relatedObjId:null
+11:35:14.112 (1408814319)|USER_DEBUG|[665]|DEBUG|newRelatedObj:Employee__c:{RecordTypeId=0121M0000014MgsQAE}
+11:35:14.112 (1409026755)|USER_DEBUG|[550]|DEBUG|Rule: ortoo_e2a__Pattern_Based_Rule__c:{Id=a1s1M0000070SIGQA2, Name=a1s1M0000070SIG, ortoo_e2a__Order__c=2, ortoo_e2a__Append_Picklist_Values__c=false, ortoo_e2a__Apply_Empty_Result__c=false, ortoo_e2a__Capture_Group__c=1, ortoo_e2a__Destination_Field__c=Affinity_Payout_Comp__c, ortoo_e2a__Force_to_Unmatched_Queue__c=false, ortoo_e2a__Overwrite_Allowed__c=true, ortoo_e2a__Pattern__c=(?s)\b(20)\b(.*?Please reply with), ortoo_e2a__Rule_Type__c=Field Assignment, ortoo_e2a__Search_In__c=Body, ortoo_e2a__Stop_On_Match__c=false, ortoo_e2a__Overwrite_Non_Blank_Values__c=false}
+11:35:14.112 (1409439945)|USER_DEBUG|[664]|DEBUG|result:20relatedObjId:null
+11:35:14.112 (1409491055)|USER_DEBUG|[665]|DEBUG|newRelatedObj:Employee__c:{RecordTypeId=0121M0000014MgsQAE}
+11:35:14.112 (1433536091)|USER_DEBUG|[550]|DEBUG|Rule: ortoo_e2a__Pattern_Based_Rule__c:{Id=a1s1M0000070SILQA2, Name=a1s1M0000070SIL, ortoo_e2a__Order__c=3, ortoo_e2a__Append_Picklist_Values__c=false, ortoo_e2a__Apply_Empty_Result__c=false, ortoo_e2a__Capture_Group__c=1, ortoo_e2a__Destination_Field__c=Affinity_Payout_Comp__c, ortoo_e2a__Force_to_Unmatched_Queue__c=false, ortoo_e2a__Overwrite_Allowed__c=true, ortoo_e2a__Pattern__c=(?s)\b(30)\b(.*?Please reply with), ortoo_e2a__Rule_Type__c=Field Assignment, ortoo_e2a__Search_In__c=Body, ortoo_e2a__Stop_On_Match__c=false, ortoo_e2a__Overwrite_Non_Blank_Values__c=false}
+11:35:14.112 (1434288705)|USER_DEBUG|[664]|DEBUG|result:relatedObjId:null
+11:35:14.112 (1434359198)|USER_DEBUG|[665]|DEBUG|newRelatedObj:Employee__c:{RecordTypeId=0121M0000014MgsQAE, Affinity_Payout_Comp__c=20}
+11:35:14.112 (1434535639)|USER_DEBUG|[550]|DEBUG|Rule: ortoo_e2a__Pattern_Based_Rule__c:{Id=a1s1M0000070SIQQA2, Name=a1s1M0000070SIQ, ortoo_e2a__Order__c=4, ortoo_e2a__Append_Picklist_Values__c=false, ortoo_e2a__Apply_Empty_Result__c=false, ortoo_e2a__Capture_Group__c=1, ortoo_e2a__Destination_Field__c=Affinity_Payout_Comp__c, ortoo_e2a__Force_to_Unmatched_Queue__c=false, ortoo_e2a__Overwrite_Allowed__c=true, ortoo_e2a__Pattern__c=(?s)\b(40)\b(.*?Please reply with), ortoo_e2a__Rule_Type__c=Field Assignment, ortoo_e2a__Search_In__c=Body, ortoo_e2a__Stop_On_Match__c=false, ortoo_e2a__Overwrite_Non_Blank_Values__c=false}
+11:35:14.112 (1435113927)|USER_DEBUG|[664]|DEBUG|result:relatedObjId:null
+11:35:14.112 (1435173239)|USER_DEBUG|[665]|DEBUG|newRelatedObj:Employee__c:{RecordTypeId=0121M0000014MgsQAE, Affinity_Payout_Comp__c=20}
+11:35:14.112 (1435321228)|USER_DEBUG|[922]|DEBUG|in SF Lookup Mapping attachment
+11:35:14.112 (1435524242)|USER_DEBUG|[412]|DEBUG|in SF attachment
+11:35:14.112 (1435619514)|USER_DEBUG|[432]|DEBUG|in continue
+11:35:14.112 (1435741391)|USER_DEBUG|[432]|DEBUG|in continue
+11:35:14.112 (1435860541)|USER_DEBUG|[432]|DEBUG|in continue
+11:35:14.112 (1435965769)|USER_DEBUG|[432]|DEBUG|in continue
+11:35:14.112 (1436882747)|EXCEPTION_THROWN|[354]|System.SObjectException: Invalid field OwnerId for Employee__c
+11:35:14.112 (1437049860)|USER_DEBUG|[365]|DEBUG|Warning: Failed to update owner. Possible reason: owner is not specified in email rules.Invalid field OwnerId for Employee__c
+11:35:14.112 (1437123515)|DML_BEGIN|[259]|Op:Insert|Type:Employee__c|Rows:1
+11:35:14.112 (1454953070)|DML_END|[259]
+11:35:14.112 (1455048725)|EXCEPTION_THROWN|[259]|System.DmlException: Insert failed. First exception on row 0; first error: REQUIRED_FIELD_MISSING, Required fields are missing: [Branch Lookup]: [Branch Lookup]
+11:35:14.112 (1455601139)|USER_DEBUG|[367]|DEBUG|ERRORreject reason:IGNORE_DUPLICATE
+11:35:14.112 (1482661401)|DML_BEGIN|[390]|Op:Insert|Type:ortoo_e2a__Queued_Email_Message__c|Rows:1
+11:35:14.112 (1540408823)|DML_END|[390]
+11:35:14.112 (1540574768)|SYSTEM_MODE_EXIT|false
+11:35:14.540 (1540625937)|CUMULATIVE_LIMIT_USAGE
+11:35:14.540 (1540625937)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 0 out of 100
+  Number of query rows: 0 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 416 out of 10000
+  Maximum heap size: 0 out of 36000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+11:35:14.540 (1540625937)|LIMIT_USAGE_FOR_NS|ortoo_e2a|
+  Number of SOQL queries: 11 out of 100
+  Number of query rows: 12 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 2 out of 150
+  Number of DML rows: 2 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 36000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+11:35:14.540 (1540625937)|CUMULATIVE_LIMIT_USAGE_END
+
+11:35:14.112 (1540684760)|CODE_UNIT_FINISHED|ortoo_e2a.EmailToAnything_02.handleInboundEmail(Messaging.InboundEmail, Messaging.InboundEnvelope)
+11:35:14.112 (1542292847)|EXECUTION_FINISHED
